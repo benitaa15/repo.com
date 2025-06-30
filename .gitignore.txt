@@ -1,0 +1,2 @@
+#ignore all jpeg files
+*jpeg
